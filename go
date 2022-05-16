@@ -1,3 +1,3 @@
 #!/bin/bash
 
-(./SimplRay > out.xpm) && eog out.xpm
+(./build/SimplRay > out.xpm) && eog out.xpm
